@@ -1,4 +1,4 @@
-const apikey = "69980228ae995bc1e8638e152bc90646";
+const apikey = "your key";
 const apiUrl = "https://api.openweathermap.org/data/2.5/";
 // Options for formatting the date
 const options = {
